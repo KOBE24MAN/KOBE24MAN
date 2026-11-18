@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Finance and AI Portfolio
+
+- [Filing Evidence Lab](https://github.com/KOBE24MAN/filing-evidence-lab) · Search paginated financial filings and return the original sentence with its page number.
+- [Quant Research Lab](https://github.com/KOBE24MAN/quant-research-lab) · Run rolling-window forecasts and compare holdout error with a baseline.
+- [Strategy Replay Lab](https://github.com/KOBE24MAN/strategy-replay-lab) · Compare a Q-learning policy with buy-and-hold on synthetic returns under the same trading costs.
