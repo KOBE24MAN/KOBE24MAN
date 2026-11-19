@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## AI Agent Engineering
+
+- [AegisAgent](https://github.com/KOBE24MAN/aegis-agent) · Walk through a synthetic procurement request with tool authorization, independent approval, and an audit trail.
+
 ## Finance and AI Portfolio
 
 - [Filing Evidence Lab](https://github.com/KOBE24MAN/filing-evidence-lab) · Search paginated financial filings and return the original sentence with its page number.
